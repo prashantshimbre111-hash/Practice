@@ -12,5 +12,10 @@ public class Test {
 		
 		sum s = new sum();
 		s.sum(5, 4);
+		
+		total t = new total();
+		t.addd(10, 20);
+			
+		
 	}
 }
