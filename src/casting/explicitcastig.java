@@ -12,5 +12,12 @@ public class explicitcastig {
 	System.out.println(a);
 	
 	System.out.println(d);
+	
+	long x = 123456l;
+	
+	System.out.println(x);
+	
+	int y = (int)x;
+	System.out.println(y);
 
 }}
