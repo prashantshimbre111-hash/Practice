@@ -16,6 +16,13 @@ public class Test {
 		int ok = s.returnn(44, 55);
 		System.out.println(ok);
 		
+		total t = new total();
+		System.out.println(t.addd());
+		System.out.println(t.multi(10, 20));
+		
+				
+			
+		
 		
 	}
 
