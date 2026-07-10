@@ -11,6 +11,10 @@ public class Test {
 		
 		voidcheck v = new voidcheck();
 		v.cal();
+		
+		simple s = new simple();
+		s.add();
+		s.add1(12, 24);
 	}
 
 }
