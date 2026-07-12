@@ -12,6 +12,8 @@ public class bytearray {
 			
 			System.out.println(s[i]);
 		}
+		
+		
 	}
 
 }
